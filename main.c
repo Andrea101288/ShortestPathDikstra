@@ -1,7 +1,6 @@
 ﻿/******************************************************/
 /* Progetto sessione estiva 2016-17 *******************/
-/* Studenti: Mancini Andrea Matricola: 276435 *********/
-/*********** Perticaroli Luca matricola: 278970 *******/
+/* Studente: Mancini Andrea Matricola: 276435 *********/
 /******************************************************/
 
 #define INF 1000000
